@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DATA MAHASISWA</string>
+    <string name="Nama">Judul</string>
+    <string name="Jurusan">Deskripsi</string>
+    <string name="telepon">Telepon</string>
+    <string name="prioritas">Prioritas</string>
+</resources>
